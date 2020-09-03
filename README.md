@@ -1,5 +1,5 @@
 # image-website#
-a simple website for images
+a simple website for images, it does support below browsers
 
 -moz-     /* Firefox and other browsers using Mozilla's browser engine */
 -webkit-  /* Safari, Chrome and browsers using the Webkit engine */
